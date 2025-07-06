@@ -1,0 +1,1 @@
+python -m PyInstaller Liars-Poker-Assistant.py --onefile --windowed --noconsole
